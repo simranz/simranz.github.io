@@ -1,5 +1,5 @@
 {
-		"last_updated": "12/07/2021",
+		"last_updated": "02/10/2021",
 		"timeline":[
 			{
 				"id": 1,
@@ -8,6 +8,14 @@
 				"content": "Let's see if I can get this blog started this time.",
 				"date": "12/07/2021",
 				"time": "13:34"
+			},
+			{
+				"id": 2,
+				"isMicroPost": true,
+				"title": "",
+				"content": "So removed Chrome for Edge. Long term will switch to Firefox.",
+				"date": "02/10/2021",
+				"time": "12:00"
 			}
 		]
 	}
