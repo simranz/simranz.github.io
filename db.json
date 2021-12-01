@@ -16,6 +16,14 @@
 				"content": "So removed Chrome for Edge. Long term will switch to Firefox.",
 				"date": "02/10/2021",
 				"time": "12:00"
+			},
+			{
+				"id": 3,
+				"isMicroPost": true,
+				"title": "",
+				"content": "New domain name, Svelte + Github + Netlify. Let's see how it goes.",
+				"date": "01/12/2021",
+				"time": "13:10"
 			}
 		]
 	}
