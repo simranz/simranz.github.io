@@ -24,6 +24,15 @@
 				"content": "New domain name, Svelte + Github + Netlify. Let's see how it goes.",
 				"date": "01/12/2021",
 				"time": "13:10"
+			},
+			{
+				"id": 4,
+				"isMicroPost": true,
+				"title": "",
+				"content": "Simply put, Linux mint is much faster than Win",
+				"date": "06/12/2021",
+				"time": "21:35"
 			}
+
 		]
 	}
