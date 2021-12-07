@@ -32,6 +32,14 @@
 				"content": "Simply put, Linux mint is much faster than Windows",
 				"date": "06/12/2021",
 				"time": "21:35"
+			},
+			{
+				"id": 5,
+				"isMicroPost": true,
+				"title": "",
+				"content": "github.dev is a relevation to me. Browse to the file you want to edit. Change the url from .com  to .dev and an online vscode editor opens up to edit the file. Amazing!! Makes life much simpler for quick edits.",
+				"date": "07/12/2021",
+				"time": "19:19"
 			}
 
 		]
