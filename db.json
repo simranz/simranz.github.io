@@ -45,7 +45,7 @@
 				"id": 6,
 				"isMicroPost": true,
 				"title": "",
-				"content": "While adding a new column to an existing table,if you want to prefill it with it's default constraint, you can use 'with values' while creating the column. <br />eg: <code class="block">alter table {tablename} add {newColumn} uniqueidentifier default( newID() ) with values</code> ",
+				"content": "While adding a new column to an existing table,if you want to prefill it with it's default constraint, you can use 'with values' while creating the column. <br />eg: <code class='block'>alter table {tablename} add {newColumn} uniqueidentifier default( newID() ) with values</code> ",
 				"date": "09/12/2021",
 				"time": "10:19"
 			}
