@@ -37,7 +37,7 @@
 				"id": 5,
 				"isMicroPost": true,
 				"title": "",
-				"content": "github.dev is a relevation to me. On github, browse to the file you want to edit. Change the url from .com  to .dev and an online vscode editor opens up to edit the file. Amazing!! Makes life much simpler for quick edits.",
+				"content": "github.dev is a revelation to me. On github, browse to the file you want to edit. Change the url from .com  to .dev and an online vscode editor opens up to edit the file. Amazing!! Makes life much simpler for quick edits.",
 				"date": "07/12/2021",
 				"time": "19:19"
 			},
@@ -48,6 +48,14 @@
 				"content": "While adding a new column to an existing table,if you want to prefill it with it's default constraint, you can use 'with values' while creating the column. <br />eg: <code class=\"block\">alter table {tablename} add {newColumn} uniqueidentifier default( newID() ) with values</code> ",
 				"date": "09/12/2021",
 				"time": "10:19"
+			},
+			{
+				"id": 7,
+				"isMicroPost": true,
+				"title": "",
+				"content": "It's an old saying but breaking things into smaller components makes life so much easier.",
+				"date": "15/12/2021",
+				"time": "23:48"
 			}
 
 		]
