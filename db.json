@@ -56,6 +56,14 @@
 				"content": "It's an old saying but breaking things into smaller components makes life so much easier.",
 				"date": "15/12/2021",
 				"time": "23:48"
+			},
+			{
+				"id": 8,
+				"isMicroPost": true,
+				"title": "",
+				"content": "I am going to build backend of this blog with Laravel. Let's see how it goes.",
+				"date": "01/02/2022",
+				"time":"19:27"
 			}
 
 		]
