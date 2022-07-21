@@ -64,6 +64,22 @@
 				"content": "I am going to build backend of this blog with Laravel. Let's see how it goes.",
 				"date": "01/02/2022",
 				"time":"19:27"
+			},
+			{
+				"id": 9,
+				"isMicroPost": true,
+				"title": "",
+				"content": "So no progress on Laravel yet but upgraded my laptop to double the RAM to 16GB and  250G SSD running Elemetary OS and it's cut the boot time from over 2 mins to less than 20 seconds. :)",
+				"date": "21/07/2022",
+				"time":"18:41"
+			},
+			{
+				"id": 10,
+				"isMicroPost": true,
+				"title": "",
+				"content": "Another thing, I used a blank SSD to install, got <u>No bootable device</u> error after installation. The article (<a href='https://itsfoss.com/no-bootable-device-found-ubuntu/' target="_blank">https://itsfoss.com/no-bootable-device-found-ubuntu/</a> ) by Its Foss solved it for me.",
+				"date": "21/07/2022",
+				"time":"18:48"
 			}
 
 		]
