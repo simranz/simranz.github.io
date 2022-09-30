@@ -80,6 +80,14 @@
 				"content": "Another thing, I used a blank SSD to install, got <u>No bootable device</u> error after installation. The article (<a href='https://itsfoss.com/no-bootable-device-found-ubuntu/' target='_blank'>https://itsfoss.com/no-bootable-device-found-ubuntu/</a> ) by Its Foss solved it for me.",
 				"date": "21/07/2022",
 				"time":"18:48"
+			},
+			{
+				"id": 11,
+				"isMicroPost": true,
+				"title": "",
+				"content": "Zorin OS is amazing. Been using it for more than 2 months now and no issues for a Linux noob like me.",
+				"date": "30/09/2022",
+				"time":"18:16"
 			}
 
 		]
