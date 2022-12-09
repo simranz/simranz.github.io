@@ -88,6 +88,14 @@
 				"content": "Zorin OS is amazing. Been using it for more than 2 months now and no issues for a Linux noob like me.",
 				"date": "30/09/2022",
 				"time":"18:16"
+			},
+			{
+				"id": 12,
+				"isMicroPost": true,
+				"title": "",
+				"content": "Updated CSS of the site to change the style slightly and set it to dark mode",
+				"date": "09/12/2022",
+				"time":"17:46"
 			}
 
 		]
